@@ -4,7 +4,9 @@
 
 ##Stack:
 
-- Webpack + ES6/7 + REACT
+- Webpack + Gulp + Grunt + ES6/7 + REACT
+- Using https://jsonplaceholder.typicode.com/ for API REST
+- Styles with Bootstrap - https://bootswatch.com/
 
 ##Getting started:
 
