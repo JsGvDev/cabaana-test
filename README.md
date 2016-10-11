@@ -4,11 +4,13 @@
 
 ##Stack:
 
-- Webpack + ES6/7 + REACT
+- Webpack + Gulp + Grunt + ES6/7 + REACT
+- Using https://jsonplaceholder.typicode.com/ for API REST
+- Styles with Bootstrap - https://bootswatch.com/
 
 ##Getting started:
 
-`npm install`
+`npm install` | 
 `npm install --global gulp-cli`
 
 ##Tests
@@ -22,8 +24,8 @@
 
 Will compile and generate the static site into `\dist`
 
-1st. Getting started.
-2nd. Deployment.
-3rd. Tests.
+- 1st. Getting started.
+- 2nd. Deployment.
+- 3rd. Tests.
 
 Thanks.
