@@ -22,8 +22,8 @@
 
 Will compile and generate the static site into `\dist`
 
-1st. Getting started.
-2nd. Deployment.
-3rd. Tests.
+- 1st. Getting started.
+- 2nd. Deployment.
+- 3rd. Tests.
 
 Thanks.
