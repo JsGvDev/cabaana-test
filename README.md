@@ -8,7 +8,7 @@
 
 ##Getting started:
 
-`npm install`
+`npm install` | 
 `npm install --global gulp-cli`
 
 ##Tests
