@@ -1,0 +1,6 @@
+{
+  "name": "Cabaana-test",
+  "tagline": "Test for Cabaana",
+  "body": "#Cabaana Test\r\n\r\n:checkered_flag:   :running::running:     :running::running::running:\r\n\r\n##Stack:\r\n\r\n- Webpack + ES6/7 + REACT\r\n\r\n##Getting started:\r\n\r\n`npm install` | \r\n`npm install --global gulp-cli`\r\n\r\n##Tests\r\n\r\n`npm run test`\r\n\r\n\r\n##Deployment\r\n\r\n`npm run build`\r\n\r\nWill compile and generate the static site into `\\dist`\r\n\r\n- 1st. Getting started.\r\n- 2nd. Deployment.\r\n- 3rd. Tests.\r\n\r\nThanks.\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
